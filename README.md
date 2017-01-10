@@ -1,2 +1,2 @@
 # pocetni
-repozitorij za ucenje
+izmjenjena verzija bla bla
