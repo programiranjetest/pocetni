@@ -1,0 +1,2 @@
+# pocetni
+repozitorij za ucenje
